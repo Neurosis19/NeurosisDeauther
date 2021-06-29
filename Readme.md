@@ -16,7 +16,7 @@ Installation
 =
 Dependencies will be automatically installed.
 
-    $ git clone https://github.com/Neurosis19/NeurosisDeauther
+    $ git clone https://github.com/Neurosis19/NeurosisDeauther.git
     $ cd NeurosisDeauther && sudo ./installer.sh
     $ sudo NeurosisDeauther.sh
 
